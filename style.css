@@ -1,0 +1,17 @@
+body {
+    background-color: #8d9a80;
+    color: white;
+    font-family: "Garamond", Serif;
+}
+a:link {
+    color:antiquewhite;
+}
+a:hover {
+    color:#8a6ba8;
+}
+a:visited {
+    color:#8a6ba8;
+}
+#header {
+    
+}
