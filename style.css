@@ -1,7 +1,22 @@
 body {
+    font-family: "Garamond", Serif;
     background-color: #8d9a80;
     color: white;
-    font-family: "Garamond", Serif;
+    margin-top: auto;
+}
+header{
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    margin: auto;
+}
+h2{
+    font-size: 28px;
+    
 }
 a:link {
     color:antiquewhite;
@@ -11,7 +26,4 @@ a:hover {
 }
 a:visited {
     color:#8a6ba8;
-}
-#header {
-    
 }
