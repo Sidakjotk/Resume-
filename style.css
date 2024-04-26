@@ -18,7 +18,7 @@ h1 {
 h2{
     font-size: 25px;
     text-transform: uppercase;
-    line-height: 0.5;
+    line-height: 0.8;
 }
 a:link {
     color:antiquewhite;
@@ -30,8 +30,11 @@ a:visited {
     color:#8a6ba8;
 }
 
-/*main {
+#rightside {
+    padding-left: 15cm;
+}
+main {
     display: grid;
-    grid-template-columns: 40% 60%;
+    grid-template-columns: 40% 50%;
     margin: auto;
-}*/
+}
